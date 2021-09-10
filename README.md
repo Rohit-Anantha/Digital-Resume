@@ -43,7 +43,7 @@ linkedin.com/in/rohit-anantha | github.com/Rohit-Anantha | rohitanantha.weebly.c
 ## Leadership & Community Involvement
 ### TECHROVA Enrichement Club
 *Vice President of HR, Director, Teacher
-- •	Gained valuable public speaking, management, and interview skills through interviewing interns, teachers, and coaches, creating aptitude tests, and inter-city science competitions and fairs.
+- Gained valuable public speaking, management, and interview skills through interviewing interns, teachers, and coaches, creating aptitude tests, and inter-city science competitions and fairs.
 
 ## Honors and Awards
 ### National Merit Finalist 
