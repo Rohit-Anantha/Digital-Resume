@@ -20,16 +20,16 @@ linkedin.com/in/rohit-anantha | github.com/Rohit-Anantha | rohitanantha.weebly.c
 - Applied OSINT, data collection and digital reconnaissance to unearth the real world identity of various users to educate peers on digital safety.
 - Skills used: Linux, Maltego, PowerPoint, Word, Kali Attack Suite, Red Team, ATT&CK Framework
 ### NASA High School Aerospace Scholarship, Houston, TX August 2019 - August 2020
-*Design Manager, Lead Developer, Researcher
+*Design Manager, Lead Developer, Researcher*
 - Assembled a Preliminary Design Review to present to NASA Engineers and Scientists to solve the Polar Ice Moon Lander challenge as well as the Artemis Missions inspired coursework.
 -	Created presentations, models (digital/physical), research papers, and thesis defenses.
 -	Skills used: 3D Development Studio, Python, MATLAB, Movie Maker
 ### CyberPatriot Air Force Academy, Frisco, TX September 2019 - May 2020
-*Competitor, Researcher, Developer, Blue Team
+*Competitor, Researcher, Developer, Blue Team*
 -	Competed at the National Level to solve complex cybersecurity challenges ranging from password lockout policy to malicious scripts and hackers.
 -	Skills used: Windows Server, Cisco, Ubuntu, Windows Administrative Suite, PowerShell, Bash Scripting
 ### TECHROVA Python Tutor, Houston, TX August 2019 - August 2020
-*Teacher, Researcher
+*Teacher, Researcher*
 -	Skills used: Python, PowerPoint, Windows
 
 ## Projects/ Competitions
@@ -42,7 +42,7 @@ linkedin.com/in/rohit-anantha | github.com/Rohit-Anantha | rohitanantha.weebly.c
 
 ## Leadership & Community Involvement
 ### TECHROVA Enrichement Club
-*Vice President of HR, Director, Teacher
+*Vice President of HR, Director, Teacher*
 - Gained valuable public speaking, management, and interview skills through interviewing interns, teachers, and coaches, creating aptitude tests, and inter-city science competitions and fairs.
 
 ## Honors and Awards
