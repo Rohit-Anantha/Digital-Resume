@@ -46,4 +46,5 @@ linkedin.com/in/rohit-anantha | github.com/Rohit-Anantha | rohitanantha.weebly.c
 - •	Gained valuable public speaking, management, and interview skills through interviewing interns, teachers, and coaches, creating aptitude tests, and inter-city science competitions and fairs.
 
 ## Honors and Awards
-- ### National Merit Finalist - Placed as one of 15,000 top scorers of 1.5 million students using the NMSQT index
+### National Merit Finalist 
+- Placed as one of 15,000 top scorers of 1.5 million students using the NMSQT index
