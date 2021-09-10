@@ -4,42 +4,30 @@ Rohit Anantha
 469-805-4696 | anantha.rohit.11@gmail.com | Austin, TX 78712 |
 linkedin.com/in/rohit-anantha | github.com/Rohit-Anantha | rohitanantha.weebly.com 
 
-### Education
+## Education
 
 #### The University of Texas at Austin, Austin, TX - May 2025
-Bachelor of Science, Computer Science 
+- Bachelor of Science, Computer Science 
 #### 6 Years of Computer Science Classes
-Advanced Computer Science (2nd Year College Level)
+- Advanced Computer Science (2nd Year College Level)
+- Data Structures & Algorithms, Discrete Mathematics 
 
-Data Structures & Algorithms, Discrete Mathematics 
+## Experience
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rohit-Anantha/Digital-Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Mary Kay Global, Dallas, TX September 2019 - Present
+*Cybersecurity and Management Intern*
+- Created comprehensive presentations on cybersecurity’s bleeding edge under the Director of Information Security at Mary Kay Global, Mr. Jerry Tilson
+- Applied OSINT, data collection and digital reconnaissance to unearth the real world identity of various users to educate peers on digital safety.
+- Skills used: Linux, Maltego, PowerPoint, Word, Kali Attack Suite, Red Team, ATT&CK Framework
+### NASA High School Aerospace Scholarship, Houston, TX August 2019 - August 2020
+*Design Manager, Lead Developer, Researcher
+- Assembled a Preliminary Design Review to present to NASA Engineers and Scientists to solve the Polar Ice Moon Lander challenge as well as the Artemis Missions inspired coursework.
+-	Created presentations, models (digital/physical), research papers, and thesis defenses.
+-	Skills used: 3D Development Studio, Python, MATLAB, Movie Maker
+### CyberPatriot Air Force Academy, Frisco, TX September 2019 - May 2020
+*Competitor, Researcher, Developer, Blue Team
+-	Competed at the National Level to solve complex cybersecurity challenges ranging from password lockout policy to malicious scripts and hackers.
+-	Skills used: Windows Server, Cisco, Ubuntu, Windows Administrative Suite, PowerShell, Bash Scripting
+### TECHROVA Python Tutor, Houston, TX August 2019 - August 2020
+*Teacher, Researcher
+-	Skills used: Python, PowerPoint, Windows
