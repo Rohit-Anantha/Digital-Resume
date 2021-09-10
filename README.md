@@ -31,3 +31,19 @@ linkedin.com/in/rohit-anantha | github.com/Rohit-Anantha | rohitanantha.weebly.c
 ### TECHROVA Python Tutor, Houston, TX August 2019 - August 2020
 *Teacher, Researcher
 -	Skills used: Python, PowerPoint, Windows
+
+## Projects/ Competitions
+### Business Professionals of America: SQL Database Fundamentals National Champion
+- 1st place National Champion for the National Leadership Conference (NLC)
+- Researched, studied and applied SQL rudiments, essential RDBMS services.
+### The Student and the Masters: Cybersecurity Blog and Research
+- Completed cybersecurity research and training on hackthebox.eu, tryhackme.com, and created a blog and website to document my progress.
+- [The Student and The Masters](https://anantharohit11.medium.com/)
+
+## Leadership & Community Involvement
+### TECHROVA Enrichement Club
+*Vice President of HR, Director, Teacher
+- •	Gained valuable public speaking, management, and interview skills through interviewing interns, teachers, and coaches, creating aptitude tests, and inter-city science competitions and fairs.
+
+## Honors and Awards
+- ### National Merit Finalist - Placed as one of 15,000 top scorers of 1.5 million students using the NMSQT index
