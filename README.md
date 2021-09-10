@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+## Rohit Anantha's Digital Resume
 
-You can use the [editor on GitHub](https://github.com/Rohit-Anantha/Digital-Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Rohit Anantha
+469-805-4696 | anantha.rohit.11@gmail.com | Austin, TX 78712 |
+linkedin.com/in/rohit-anantha | github.com/Rohit-Anantha | rohitanantha.weebly.com 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+#### The University of Texas at Austin, Austin, TX - May 2025
+Bachelor of Science, Computer Science 
+#### 6 Years of Computer Science Classes
+Advanced Computer Science (2nd Year College Level)
+
+Data Structures & Algorithms, Discrete Mathematics 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
